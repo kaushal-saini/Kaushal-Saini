@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋 I'm Kaushal
 
-<!--
-**kaushal-saini/Kaushal-Saini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student at VIT Bhopal University**  
+💻 **Currently Learning and Exploring Al & Web Technologies** 
+🌱 Excited to work on projects and share them here soon!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- Passionate about coding and technology.
+- Always eager to learn new skills and take on challenges.
+- Open to collaborations and contributions.
+
+---
+
+## 🛠️ Skills (Currently Learning)
+
+- **Python**
+- **Java**
+- **C/C++**
+- **JavaScript**
+
+---
+
+## 📫 How to reach me
+
+- GitHub: [kaushal-saini](https://github.com/kaushal-saini)
+- Instagram: [kaushalsaini_](https://www.instagram.com/kaushalsaini_/)
+- LinkedIn: [kaushal-saini](https://www.linkedin.com/in/kaushal-saini)
+
+---
+
+Thanks for visiting! ⭐️
+
+---
