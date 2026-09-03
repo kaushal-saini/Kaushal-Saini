@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=80&section=header&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <br>
+</div>
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Projects+%7C+Learning+Every+Day+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -98,12 +102,6 @@
 
 ---
 
-# 📈 Contribution Graph
-
-[![Kaushal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaushal-saini&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 # 🌱 Currently Exploring
 
 - 🤖 Artificial Intelligence
@@ -143,4 +141,7 @@
 
 ⭐ Thanks for visiting my profile! Feel free to check out my repositories and connect with me.
 
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0072ff,100:00c6ff&section=footer" width="100%"/>
 </div>
