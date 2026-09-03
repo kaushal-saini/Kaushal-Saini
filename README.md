@@ -68,14 +68,19 @@
 
 ---
 
-# 🚀 Featured Projects
+## Projects
 
 | Project | Description |
-|----------|-------------|
-| 🤖 Python Chat Bot | AI-powered chatbot developed using Python |
-| 😊 Sentiment Analysis | NLP model for sentiment classification |
-| 📰 Fake News Detection | Machine Learning model to detect fake news |
-| 🚗 Road Lane Detection | Computer Vision project using OpenCV |
+|---|---|
+| [ShopSphere — Product CRUD API](https://github.com/kaushal-saini/springboot-product-crud-api) | Spring Boot REST API for product management with Spring Data JPA, Bean Validation, and centralized exception handling. |
+| [ShopSphere — DB Integration & Migration](https://github.com/kaushal-saini/database-integration-migration) | Spring Boot app demonstrating relational DB integration, automated schema migrations with Flyway, and advanced JPA querying. |
+| [ShopSphere — Unit Testing & Logging](https://github.com/kaushal-saini/unit-testing-and-logging) | Adds JUnit 5 / Mockito test coverage, JaCoCo reporting, and SLF4J/Logback logging to the ShopSphere backend. |
+| [Campus Course & Records Manager (CCRM)](https://github.com/kaushal-saini/Campus-Course-Records-Manager-CCRM-) | Console-based academic management system in core Java SE — student, course, and record administration. |
+| [LifeMart](https://github.com/kaushal-saini/LifeMart) | Full-stack blood & organ donor matching platform — React/Tailwind frontend, Node.js/Express backend, PostgreSQL. |
+| [Sentiment Analysis](https://github.com/kaushal-saini/Sentiment-analysis) | NLP pipeline classifying customer reviews as positive, negative, or neutral using NLTK, TF-IDF, and Logistic Regression. |
+| [Fake News Detection](https://github.com/kaushal-saini/fake-news-detection) | Fake news classifier using TF-IDF and Logistic Regression, with full preprocessing and evaluation pipeline. |
+| [Road Lane Detection](https://github.com/kaushal-saini/Road-lane-Detection-) | Detects road lane lines in images/video using Canny edge detection and the Hough line transform (OpenCV). |
+| [Chatbot](https://github.com/kaushal-saini/chatbot) | Lightweight intent-based NLP chatbot in Python. |
 
 ---
 
